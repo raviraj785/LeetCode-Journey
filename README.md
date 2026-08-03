@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/raviraj785/LeetCode-Journey/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/raviraj785/LeetCode-Journey/tree/master/0069-sqrtx) |
 | [0877-stone-game](https://github.com/raviraj785/LeetCode-Journey/tree/master/0877-stone-game) |
 ## Hash Table
 |  |
@@ -43,4 +44,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/raviraj785/LeetCode-Journey/tree/master/0877-stone-game) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/raviraj785/LeetCode-Journey/tree/master/0069-sqrtx) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/raviraj785/LeetCode-Journey/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
