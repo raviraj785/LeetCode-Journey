@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/raviraj785/LeetCode-Journey/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/raviraj785/LeetCode-Journey/tree/master/0075-sort-colors) |
 | [0704-binary-search](https://github.com/raviraj785/LeetCode-Journey/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/raviraj785/LeetCode-Journey/tree/master/0877-stone-game) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/raviraj785/LeetCode-Journey/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/raviraj785/LeetCode-Journey/tree/master/0069-sqrtx) |
 | [0704-binary-search](https://github.com/raviraj785/LeetCode-Journey/tree/master/0704-binary-search) |
 ## Newton's Method
