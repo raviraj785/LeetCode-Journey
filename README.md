@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/raviraj785/LeetCode-Journey/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/raviraj785/LeetCode-Journey/tree/master/0240-search-a-2d-matrix-ii) |
 | [0704-binary-search](https://github.com/raviraj785/LeetCode-Journey/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/raviraj785/LeetCode-Journey/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/raviraj785/LeetCode-Journey/tree/master/0877-stone-game) |
 ## Sorting
 |  |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/raviraj785/LeetCode-Journey/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/raviraj785/LeetCode-Journey/tree/master/0240-search-a-2d-matrix-ii) |
 | [0704-binary-search](https://github.com/raviraj785/LeetCode-Journey/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/raviraj785/LeetCode-Journey/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Newton's Method
 |  |
 | ------- |
@@ -79,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/raviraj785/LeetCode-Journey/tree/master/0240-search-a-2d-matrix-ii) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/raviraj785/LeetCode-Journey/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
