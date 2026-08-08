@@ -103,4 +103,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/raviraj785/LeetCode-Journey/tree/master/0410-split-array-largest-sum) |
+## Design
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/raviraj785/LeetCode-Journey/tree/master/1603-design-parking-system) |
+## Simulation
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/raviraj785/LeetCode-Journey/tree/master/1603-design-parking-system) |
+## Counting
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/raviraj785/LeetCode-Journey/tree/master/1603-design-parking-system) |
 <!---LeetCode Topics End-->
