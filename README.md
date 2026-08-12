@@ -115,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1603-design-parking-system](https://github.com/raviraj785/LeetCode-Journey/tree/master/1603-design-parking-system) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/raviraj785/LeetCode-Journey/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
