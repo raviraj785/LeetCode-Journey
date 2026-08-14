@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/raviraj785/LeetCode-Journey/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/raviraj785/LeetCode-Journey/tree/master/0125-valid-palindrome) |
+| [0160-intersection-of-two-linked-lists](https://github.com/raviraj785/LeetCode-Journey/tree/master/0160-intersection-of-two-linked-lists) |
 | [0443-string-compression](https://github.com/raviraj785/LeetCode-Journey/tree/master/0443-string-compression) |
 ## String
 |  |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/raviraj785/LeetCode-Journey/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0160-intersection-of-two-linked-lists](https://github.com/raviraj785/LeetCode-Journey/tree/master/0160-intersection-of-two-linked-lists) |
 ## Backtracking
 |  |
 | ------- |
@@ -118,5 +120,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/raviraj785/LeetCode-Journey/tree/master/0160-intersection-of-two-linked-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/raviraj785/LeetCode-Journey/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
