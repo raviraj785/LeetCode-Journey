@@ -1,69 +1,52 @@
-import java.util.Stack;
-
 class Solution {
     public int largestRectangleArea(int[] heights) {
-
         int n = heights.length;
+        Stack<Integer> st = new  Stack<>();
+        int [] nse = new int [n];
+        int [] pse = new int [n];
+        // Calculate Nse
+        st.push(n-1) ;
+        nse[n-1] = n;
 
-        int[] nse = new int[n];
-        int[] pse = new int[n];
-
-        Stack<Integer> st = new Stack<>();
-
-        // Calculate NSE (Next Smaller Element)
-        st.push(n - 1);
-        nse[n - 1] = n;
-
-        for (int i = n - 2; i >= 0; i--) {
-
-            while (!st.isEmpty() && heights[st.peek()] >= heights[i]) {
+        for(int i = n-2; i >=0 ; i--){
+            while(st.size() > 0 && heights [st.peek()] >= heights[i]){
                 st.pop();
-            }
 
-            if (st.isEmpty()) {
+            }
+            if(st.size () == 0 ){
                 nse[i] = n;
-            } else {
-                nse[i] = st.peek();
+               
             }
-
+            else nse [i] = st.peek();
             st.push(i);
         }
-
-        // Empty Stack
-        while (!st.isEmpty()) {
-            st.pop();
-        }
-
-        // Calculate PSE (Previous Smaller Element)
+        // EmptYing Stack
+        while(st.size() > 0  ) st.pop();
+        // Calculate pse[]
         st.push(0);
-        pse[0] = -1;
+        pse[0] =-1;
+       for(int i = 1; i <= n - 1; i++) {
 
-        for (int i = 1; i < n; i++) {
+    while(st.size() > 0 && heights[st.peek()] >= heights[i]) {
+        st.pop();
+    }
 
-            while (!st.isEmpty() && heights[st.peek()] >= heights[i]) {
-                st.pop();
-            }
+    if(st.size() == 0) {
+        pse[i] = -1;
+    }
+    else {
+        pse[i] = st.peek();
+    }
 
-            if (st.isEmpty()) {
-                pse[i] = -1;
-            } else {
-                pse[i] = st.peek();
-            }
+    st.push(i); // <-- YAHAN hona chahiye
+}
 
-            st.push(i);
+        //Maximum Area of rectangle 
+        int max = -1;
+        for(int i = 0 ; i< n ; i++){
+            int area = heights[i] * (nse[i] - pse[i]-1);
+            max = Math.max(max, area);
         }
-
-        // Calculate Maximum Area
-        int maxArea = 0;
-
-        for (int i = 0; i < n; i++) {
-
-            int width = nse[i] - pse[i] - 1;
-            int area = heights[i] * width;
-
-            maxArea = Math.max(maxArea, area);
-        }
-
-        return maxArea;
+        return max;
     }
 }
