@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/raviraj785/LeetCode-Journey/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0125-valid-palindrome](https://github.com/raviraj785/LeetCode-Journey/tree/master/0125-valid-palindrome) |
+| [0205-isomorphic-strings](https://github.com/raviraj785/LeetCode-Journey/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/raviraj785/LeetCode-Journey/tree/master/0242-valid-anagram) |
 | [0443-string-compression](https://github.com/raviraj785/LeetCode-Journey/tree/master/0443-string-compression) |
 ## Math
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/raviraj785/LeetCode-Journey/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/raviraj785/LeetCode-Journey/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/raviraj785/LeetCode-Journey/tree/master/0160-intersection-of-two-linked-lists) |
+| [0205-isomorphic-strings](https://github.com/raviraj785/LeetCode-Journey/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/raviraj785/LeetCode-Journey/tree/master/0242-valid-anagram) |
 ## Backtracking
 |  |
