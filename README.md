@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/raviraj785/LeetCode-Journey/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0051-n-queens](https://github.com/raviraj785/LeetCode-Journey/tree/master/0051-n-queens) |
 ## Array
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/raviraj785/LeetCode-Journey/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/raviraj785/LeetCode-Journey/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/raviraj785/LeetCode-Journey/tree/master/0035-search-insert-position) |
+| [0051-n-queens](https://github.com/raviraj785/LeetCode-Journey/tree/master/0051-n-queens) |
 | [0074-search-a-2d-matrix](https://github.com/raviraj785/LeetCode-Journey/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/raviraj785/LeetCode-Journey/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/raviraj785/LeetCode-Journey/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -202,4 +204,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/raviraj785/LeetCode-Journey/tree/master/0239-sliding-window-maximum) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/raviraj785/LeetCode-Journey/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
