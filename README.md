@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/raviraj785/LeetCode-Journey/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/raviraj785/LeetCode-Journey/tree/master/0877-stone-game) |
 | [1552-magnetic-force-between-two-balls](https://github.com/raviraj785/LeetCode-Journey/tree/master/1552-magnetic-force-between-two-balls) |
+| [2596-check-knight-tour-configuration](https://github.com/raviraj785/LeetCode-Journey/tree/master/2596-check-knight-tour-configuration) |
 ## Sorting
 |  |
 | ------- |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/raviraj785/LeetCode-Journey/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/raviraj785/LeetCode-Journey/tree/master/0240-search-a-2d-matrix-ii) |
+| [2596-check-knight-tour-configuration](https://github.com/raviraj785/LeetCode-Journey/tree/master/2596-check-knight-tour-configuration) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1603-design-parking-system](https://github.com/raviraj785/LeetCode-Journey/tree/master/1603-design-parking-system) |
+| [2596-check-knight-tour-configuration](https://github.com/raviraj785/LeetCode-Journey/tree/master/2596-check-knight-tour-configuration) |
 ## Counting
 |  |
 | ------- |
@@ -174,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/raviraj785/LeetCode-Journey/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [2596-check-knight-tour-configuration](https://github.com/raviraj785/LeetCode-Journey/tree/master/2596-check-knight-tour-configuration) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -210,4 +214,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0051-n-queens](https://github.com/raviraj785/LeetCode-Journey/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/raviraj785/LeetCode-Journey/tree/master/0052-n-queens-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2596-check-knight-tour-configuration](https://github.com/raviraj785/LeetCode-Journey/tree/master/2596-check-knight-tour-configuration) |
 <!---LeetCode Topics End-->
