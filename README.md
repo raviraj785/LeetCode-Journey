@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/raviraj785/LeetCode-Journey/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/raviraj785/LeetCode-Journey/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0036-valid-sudoku](https://github.com/raviraj785/LeetCode-Journey/tree/master/0036-valid-sudoku) |
 | [0138-copy-list-with-random-pointer](https://github.com/raviraj785/LeetCode-Journey/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/raviraj785/LeetCode-Journey/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/raviraj785/LeetCode-Journey/tree/master/0160-intersection-of-two-linked-lists) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/raviraj785/LeetCode-Journey/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/raviraj785/LeetCode-Journey/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/raviraj785/LeetCode-Journey/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/raviraj785/LeetCode-Journey/tree/master/0036-valid-sudoku) |
 | [0051-n-queens](https://github.com/raviraj785/LeetCode-Journey/tree/master/0051-n-queens) |
 | [0074-search-a-2d-matrix](https://github.com/raviraj785/LeetCode-Journey/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/raviraj785/LeetCode-Journey/tree/master/0075-sort-colors) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/raviraj785/LeetCode-Journey/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/raviraj785/LeetCode-Journey/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/raviraj785/LeetCode-Journey/tree/master/0240-search-a-2d-matrix-ii) |
 | [2596-check-knight-tour-configuration](https://github.com/raviraj785/LeetCode-Journey/tree/master/2596-check-knight-tour-configuration) |
