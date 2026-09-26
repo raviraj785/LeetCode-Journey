@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/raviraj785/LeetCode-Journey/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/raviraj785/LeetCode-Journey/tree/master/0101-symmetric-tree) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/raviraj785/LeetCode-Journey/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0226-invert-binary-tree](https://github.com/raviraj785/LeetCode-Journey/tree/master/0226-invert-binary-tree) |
 | [2596-check-knight-tour-configuration](https://github.com/raviraj785/LeetCode-Journey/tree/master/2596-check-knight-tour-configuration) |
 ## Dancing Links
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/raviraj785/LeetCode-Journey/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/raviraj785/LeetCode-Journey/tree/master/0101-symmetric-tree) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/raviraj785/LeetCode-Journey/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0226-invert-binary-tree](https://github.com/raviraj785/LeetCode-Journey/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/raviraj785/LeetCode-Journey/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Binary Tree
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/raviraj785/LeetCode-Journey/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/raviraj785/LeetCode-Journey/tree/master/0101-symmetric-tree) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/raviraj785/LeetCode-Journey/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0226-invert-binary-tree](https://github.com/raviraj785/LeetCode-Journey/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/raviraj785/LeetCode-Journey/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Binary Lifting
