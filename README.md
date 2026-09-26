@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/raviraj785/LeetCode-Journey/tree/master/0084-largest-rectangle-in-histogram) |
+| [0144-binary-tree-preorder-traversal](https://github.com/raviraj785/LeetCode-Journey/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/raviraj785/LeetCode-Journey/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/raviraj785/LeetCode-Journey/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/raviraj785/LeetCode-Journey/tree/master/0232-implement-queue-using-stacks) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/raviraj785/LeetCode-Journey/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/raviraj785/LeetCode-Journey/tree/master/0101-symmetric-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/raviraj785/LeetCode-Journey/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/raviraj785/LeetCode-Journey/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/raviraj785/LeetCode-Journey/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/raviraj785/LeetCode-Journey/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/raviraj785/LeetCode-Journey/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/raviraj785/LeetCode-Journey/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/raviraj785/LeetCode-Journey/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/raviraj785/LeetCode-Journey/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/raviraj785/LeetCode-Journey/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/raviraj785/LeetCode-Journey/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Binary Tree
@@ -257,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/raviraj785/LeetCode-Journey/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/raviraj785/LeetCode-Journey/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/raviraj785/LeetCode-Journey/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/raviraj785/LeetCode-Journey/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/raviraj785/LeetCode-Journey/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/raviraj785/LeetCode-Journey/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Binary Lifting
