@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/raviraj785/LeetCode-Journey/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0437-path-sum-iii](https://github.com/raviraj785/LeetCode-Journey/tree/master/0437-path-sum-iii) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/raviraj785/LeetCode-Journey/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0938-range-sum-of-bst](https://github.com/raviraj785/LeetCode-Journey/tree/master/0938-range-sum-of-bst) |
 | [2596-check-knight-tour-configuration](https://github.com/raviraj785/LeetCode-Journey/tree/master/2596-check-knight-tour-configuration) |
 ## Doubly-Linked List
 |  |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/raviraj785/LeetCode-Journey/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/raviraj785/LeetCode-Journey/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/raviraj785/LeetCode-Journey/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/raviraj785/LeetCode-Journey/tree/master/0938-range-sum-of-bst) |
 ## Binary Tree
 |  |
 | ------- |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/raviraj785/LeetCode-Journey/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/raviraj785/LeetCode-Journey/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/raviraj785/LeetCode-Journey/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/raviraj785/LeetCode-Journey/tree/master/0938-range-sum-of-bst) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -336,4 +339,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/raviraj785/LeetCode-Journey/tree/master/0098-validate-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/raviraj785/LeetCode-Journey/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/raviraj785/LeetCode-Journey/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/raviraj785/LeetCode-Journey/tree/master/0938-range-sum-of-bst) |
 <!---LeetCode Topics End-->
