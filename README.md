@@ -77,12 +77,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-magnetic-force-between-two-balls](https://github.com/raviraj785/LeetCode-Journey/tree/master/1552-magnetic-force-between-two-balls) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/raviraj785/LeetCode-Journey/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [2596-check-knight-tour-configuration](https://github.com/raviraj785/LeetCode-Journey/tree/master/2596-check-knight-tour-configuration) |
+| [3424-minimum-cost-to-make-arrays-identical](https://github.com/raviraj785/LeetCode-Journey/tree/master/3424-minimum-cost-to-make-arrays-identical) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/raviraj785/LeetCode-Journey/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/raviraj785/LeetCode-Journey/tree/master/0242-valid-anagram) |
 | [1552-magnetic-force-between-two-balls](https://github.com/raviraj785/LeetCode-Journey/tree/master/1552-magnetic-force-between-two-balls) |
+| [3424-minimum-cost-to-make-arrays-identical](https://github.com/raviraj785/LeetCode-Journey/tree/master/3424-minimum-cost-to-make-arrays-identical) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/raviraj785/LeetCode-Journey/tree/master/0410-split-array-largest-sum) |
 | [1382-balance-a-binary-search-tree](https://github.com/raviraj785/LeetCode-Journey/tree/master/1382-balance-a-binary-search-tree) |
+| [3424-minimum-cost-to-make-arrays-identical](https://github.com/raviraj785/LeetCode-Journey/tree/master/3424-minimum-cost-to-make-arrays-identical) |
 ## Prefix Sum
 |  |
 | ------- |
