@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/raviraj785/LeetCode-Journey/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/raviraj785/LeetCode-Journey/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/raviraj785/LeetCode-Journey/tree/master/0877-stone-game) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/raviraj785/LeetCode-Journey/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1552-magnetic-force-between-two-balls](https://github.com/raviraj785/LeetCode-Journey/tree/master/1552-magnetic-force-between-two-balls) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/raviraj785/LeetCode-Journey/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [2596-check-knight-tour-configuration](https://github.com/raviraj785/LeetCode-Journey/tree/master/2596-check-knight-tour-configuration) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/raviraj785/LeetCode-Journey/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/raviraj785/LeetCode-Journey/tree/master/0242-valid-anagram) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/raviraj785/LeetCode-Journey/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1552-magnetic-force-between-two-balls](https://github.com/raviraj785/LeetCode-Journey/tree/master/1552-magnetic-force-between-two-balls) |
 | [3424-minimum-cost-to-make-arrays-identical](https://github.com/raviraj785/LeetCode-Journey/tree/master/3424-minimum-cost-to-make-arrays-identical) |
 ## Dynamic Programming
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/raviraj785/LeetCode-Journey/tree/master/0410-split-array-largest-sum) |
 | [0877-stone-game](https://github.com/raviraj785/LeetCode-Journey/tree/master/0877-stone-game) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/raviraj785/LeetCode-Journey/tree/master/1235-maximum-profit-in-job-scheduling) |
 ## Game Theory
 |  |
 | ------- |
@@ -111,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/raviraj785/LeetCode-Journey/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/raviraj785/LeetCode-Journey/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/raviraj785/LeetCode-Journey/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/raviraj785/LeetCode-Journey/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1552-magnetic-force-between-two-balls](https://github.com/raviraj785/LeetCode-Journey/tree/master/1552-magnetic-force-between-two-balls) |
 ## Newton's Method
 |  |
